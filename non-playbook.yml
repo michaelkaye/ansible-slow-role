@@ -1,0 +1,7 @@
+---
+ - name: pause
+   hosts: all
+   tasks:
+     - name: Pause for 10min
+       pause:
+         minutes: 10
