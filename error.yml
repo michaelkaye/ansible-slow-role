@@ -5,3 +5,4 @@
      - nae: ERROR
        pase:
          inutes: 10
+       delegate_to: localhost

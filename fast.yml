@@ -5,3 +5,4 @@
      - name: Pause for 1min
        pause:
          minutes: 1
+       delegate_to: localhost
