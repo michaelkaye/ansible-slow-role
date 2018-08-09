@@ -1,0 +1,7 @@
+---
+ - name: pause
+   hosts: all
+   tasks:
+     - nae: ERROR
+       pase:
+         inutes: 10
